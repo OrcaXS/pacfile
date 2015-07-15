@@ -1957,7 +1957,6 @@ var SAFE_DOMAINS = {
     "colourhill.com": 1,
     "com.cn": 1,
     "com.com": 1,
-    "com.sg": 1,
     "comicvip.com": 1,
     "comicyu.com": 1,
     "communicatte.com": 1,
